@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-app-pomodoro/static/css/main.feaf622f.css",
+    "main.js": "/react-app-pomodoro/static/js/main.5fa242ed.js",
+    "static/js/787.9ff0955c.chunk.js": "/react-app-pomodoro/static/js/787.9ff0955c.chunk.js",
+    "static/media/beep.mp3": "/react-app-pomodoro/static/media/beep.6c19b7b9a533c76b395a.mp3",
+    "index.html": "/react-app-pomodoro/index.html",
+    "main.feaf622f.css.map": "/react-app-pomodoro/static/css/main.feaf622f.css.map",
+    "main.5fa242ed.js.map": "/react-app-pomodoro/static/js/main.5fa242ed.js.map",
+    "787.9ff0955c.chunk.js.map": "/react-app-pomodoro/static/js/787.9ff0955c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feaf622f.css",
+    "static/js/main.5fa242ed.js"
+  ]
+}
