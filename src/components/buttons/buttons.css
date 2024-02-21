@@ -1,0 +1,34 @@
+#break-label,
+#session-label{
+    color: #000405cb; 
+    letter-spacing: 1px;
+    font-size: 21px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.break-box,
+.session-box{
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+    border-radius: 15px;
+    width: 220px;
+}
+.buttons-break,
+.buttons-session{
+    display: flex;   
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+#break-decrement,
+#break-increment,
+#session-decrement,
+#session-increment {
+    background-color: transparent;
+    border: none; 
+    cursor: pointer;
+}
+#break-length,
+#session-length{
+    font-size: 35px;
+}  

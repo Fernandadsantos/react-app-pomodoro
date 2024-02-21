@@ -1,0 +1,30 @@
+body{
+    background-color: #a0ced9;  
+    margin-top: 100px;
+}
+#title{
+    color: #fff;
+    font-size: 70px;
+}
+
+.timer{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+#start-stop,
+#reset{ 
+    background-color: transparent;
+    border: 2px solid #00000028;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+
+} 
+
+.btn-bottom{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    gap: 30px;
+}
