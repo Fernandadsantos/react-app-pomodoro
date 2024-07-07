@@ -2,6 +2,7 @@ body{
     background-color: #a0ced9;  
     margin-top: 100px;
 }
+
 #title{
     color: #fff;
     font-size: 70px;
@@ -10,8 +11,9 @@ body{
 .timer{
     display: flex;
     justify-content: center;
-    gap: 60px;
+    gap: 30px;
 }
+
 #start-stop,
 #reset{ 
     background-color: transparent;
@@ -28,3 +30,4 @@ body{
     margin-top: 60px;
     gap: 30px;
 }
+ 

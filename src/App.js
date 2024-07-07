@@ -80,7 +80,7 @@ function App() {
             return sessionTime;
           }
         });
-      }, 1000);
+      }, 10000);
       setIntervalId(newIntervalId);
     }
   }; 

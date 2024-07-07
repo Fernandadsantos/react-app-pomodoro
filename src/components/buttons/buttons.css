@@ -3,16 +3,17 @@
     color: #000405cb; 
     letter-spacing: 1px;
     font-size: 21px;
-    margin-bottom: 10px;
-    text-align: center;
+    margin: 10px 0 0;
+    text-align: center; 
 }
 
 .break-box,
 .session-box{
-    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
     border-radius: 15px;
-    width: 220px;
+    box-shadow: 0 2px 8px #00000026;
+    width: 195px;
 }
+
 .buttons-break,
 .buttons-session{
     display: flex;   
@@ -20,6 +21,7 @@
     gap: 20px;
     align-items: center;
 }
+
 #break-decrement,
 #break-increment,
 #session-decrement,
@@ -28,6 +30,7 @@
     border: none; 
     cursor: pointer;
 }
+
 #break-length,
 #session-length{
     font-size: 35px;
