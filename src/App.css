@@ -4,15 +4,18 @@
 }
 
 body{
-  background-color: #a0ced9;  
-  margin-top: 30px;
+  background-color: #a0ced9;   
+  height: 100vh; 
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
 } 
 
 #title{
   color: #fff;
   font-size: 75px;
-  text-align: center;
-  margin: 0 0 10px 0;
+  text-align: center; 
 }
 
 .timer{
